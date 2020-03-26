@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: blanchedalmond;
+}
+#Grand-parent-div{
+    background-color: black;
+    
+
+}
+
+
+
+
+#Parent-div{
+    background-color: blue;
+    width: 300px;
+    height: 500px;
+    position: relative;
+
+
+}
+.child-div{
+    background-color: yellow;
+    width: 200px;
+    height: 300px;
+    position: sticky;
+    right: 20px;
+
+}
